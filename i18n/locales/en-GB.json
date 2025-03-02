@@ -1,0 +1,15 @@
+{
+    "component.lang.switcher.button.changelanguage": "Change language",
+    "pages.title.about": "About",
+    "pages.description.about": "About",
+    "pages.title.datasets": "Datasets",
+    "pages.description.datasets": "Datasets",
+    "pages.title.quickstart": "Quickstart",
+    "pages.description.quickstart": "Quickstart",
+    "pages.title.legalnotice": "Legal notice",
+    "pages.description.legalnotice": "Legal notice",
+    "pages.title.privacypolicy": "Privacy policy",
+    "pages.description.privacypolicy": "Privacy policy",
+    "footer.links.title.docs": "Docs",
+    "footer.links.title.legal": "Legal"
+}
